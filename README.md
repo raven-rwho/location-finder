@@ -5,7 +5,7 @@ this app allows the storage and retrieving of locations. It consists of two scre
 It is just meant as a proove of concept that can be anehanced to every kind of location based "finder" app (e.g. stores, shops, restaurants, doctors, what ever)
 
 ## Setup
-Create a new Expo based project and add the credentials needed for the Firebase Realtime Database [here](https://github.com/raven-rwho/location-finder/blob/master/config/firebase.js) and you should be good to go.
+Create a new Expo based project and add the credentials needed for the Firebase Realtime Database [here](https://github.com/raven-rwho/location-finder/blob/master/config/firebase.js). To make your database readable you need to change the [security rules](https://firebase.google.com/docs/database/security/quickstart) accordingly.
 
 ## Limitations
 There is still a lot of work to do:
