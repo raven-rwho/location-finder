@@ -11,6 +11,8 @@ Create a new Expo based project and add the credentials needed for the Firebase 
 ## Limitations
 There is still a lot of work to do:
 * No unit or integration tests
+* Markers to the locations should be added to the map
+* The radius for the geoquery should be configurable
 * Edge cases, like no Location or no network
 * No persistence
 * only tested on Android (but should also work on IOS)
