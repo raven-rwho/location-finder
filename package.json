@@ -1,0 +1,24 @@
+{
+  "name": "spaeti-expo",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "babel-plugin-jsx-control-statements": "^3.2.8",
+    "eslint-config-rallycoding": "^3.2.0",
+    "expo": "^25.0.0",
+    "firebase": "^4.8.1",
+    "geofire": "^4.1.2",
+    "lodash": "^4.17.4",
+    "mobx": "^3.3.1",
+    "mobx-persist": "^0.3.4",
+    "mobx-react": "^4.3.3",
+    "react": "16.2.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz",
+    "react-native-keyboard-aware-scroll-view": "^0.4.1",
+    "react-native-snap-carousel": "^3.4.0",
+    "react-navigation": "^1.0.0-beta.27"
+  }
+}
