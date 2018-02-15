@@ -9,12 +9,12 @@ Create a new Expo based project and add the credentials needed for the Firebase 
 
 ## Limitations
 There is still a lot of work to do:
-* Completely untested
+* No unit or integration tests
 * Edge cases, like no Location or no network
 * No persistence
 * only tested on Android (but should also work on IOS)
 
-I hope it can be useful and PRs are highly welcome!
+**I hope it can be useful and PRs are highly welcome!**
 
 ## The techstack
 * [expo.io](http://expo.io)
